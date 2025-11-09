@@ -12,7 +12,7 @@
     <!-- Java -->
     <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
     <!-- React -->
-    <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+    <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white" />&nbsp
     <!-- Flutter -->
     <img src = "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp
   </div>
@@ -59,11 +59,30 @@
   <divider />
   <!-- 블러드메이트 -->
   <div>
-    <h3>"BloodMate"<br />혈당·혈압 관리 서비스</h3>
+    <h3>"BloodMate"</h3>
+    <h4>혈당·혈압 관리 서비스</h4>
     <p>링크 : <a href = "https://github.com/hanu1229/bloodmate">BloodMate Web + Server</a></p>
     <p>링크 : <a href = "https://github.com/hanu1229/bloodmate_app">BloodMate App</a></p>
   </div>
-  <img src="./rounded-box.svg" alt="Projects" />
+  <!-- 프리랜서 개발자 중개 서비스 -->
+  <div>
+    <h3>"DevConnect"</h3>
+    <h4>프리랜서 개발자 중개 서비스</h4>
+    <p>링크 : <a href = "https://github.com/hanu1229/ft_project">DevConnect Web + Server</a></p>
+    <p>링크 : <a href = "https://github.com/hanu1229/devconnect_app">DevConnect App</a></p>
+  </div>
+  <!-- 호텔 운영 관리 서비스 -->
+  <div>
+    <h3>"KoreanHotel"</h3>
+    <h4>호텔 운영 관리 서비스</h4>
+    <p>링크 : <a href = "https://github.com/hanu1229/korean-hotel-staff-system">KoreanHotel Web + Server</a></p>
+  </div>
+  <!-- 부동산 중개 서비스 -->
+  <div>
+    <h3>"이것방"</h3>
+    <h4>부동산 중개 서비스</h4>
+    <p>링크 : <a href = "https://github.com/hanu1229/bloodmate">이것방 Web + Server</a></p>
+  </div>
 </div>
 <br />
 <!-- ↑🚀 Projects 🚀↑ -->
