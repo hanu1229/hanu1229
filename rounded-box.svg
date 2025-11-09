@@ -1,13 +1,13 @@
 <!-- width="900" -->
-<svg xmlns="http://www.w3.org/2000/svg" height="140">
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="150">
   <!-- 배경 박스 -->
-  <rect x="0" y="0" width="100%" height="100%" rx="16" ry="16" fill="#F6F5FB" stroke="#A097D4" stroke-width="2"/>
+  <rect x="0" y="0" width="100%" height="100%" rx="16" ry="16" fill="#FFFFFF" stroke="#A097D4" stroke-width="2"/>
   <!-- 제목 -->
   <text x="24" y="46" font-size="24" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" fill="#27272a" font-weight="700">
-    🚀 Projects
+    BloodMate
   </text>
   <!-- 설명 -->
   <text x="24" y="82" font-size="16" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" fill="#444">
-    BloodMate · DevConnect · Hotel · Real Estate · RentCar
+   혈당·혈압 관리 서비스
   </text>
 </svg>
