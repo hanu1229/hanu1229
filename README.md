@@ -63,6 +63,7 @@
     <p>링크 : <a href = "https://github.com/hanu1229/bloodmate">BloodMate Web + Server</a></p>
     <p>링크 : <a href = "https://github.com/hanu1229/bloodmate_app">BloodMate App</a></p>
   </div>
+  <img src="./rounded-box.svg" alt="Projects" />
 </div>
 <br />
 <!-- ↑🚀 Projects 🚀↑ -->
