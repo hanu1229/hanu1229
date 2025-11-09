@@ -57,13 +57,11 @@
 <div>
   <h2><strong>🚀 Projects</strong></h2>
   <divider />
-    
-  </div>
+  <!-- 블러드메이트 -->
   <div>
-    <!-- GitHub -->
-    <img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-    <!-- Notion -->
-    <img src = "https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
+    <h3>"BloodMate"<br />혈당·혈압 관리 서비스</h3>
+    <p>링크 : <a href = "https://github.com/hanu1229/bloodmate">BloodMate Web + Server</a></p>
+    <p>링크 : <a href = "https://github.com/hanu1229/bloodmate_app">BloodMate App</a></p>
   </div>
 </div>
 <br />
