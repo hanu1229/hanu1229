@@ -81,7 +81,7 @@
   <div>
     <h3>"이것방"</h3>
     <h4>부동산 중개 서비스</h4>
-    <p>링크 : <a href = "https://github.com/hanu1229/bloodmate">이것방 Web + Server</a></p>
+    <p>링크 : <a href = "https://github.com/hanu1229/this-room-estate-service">이것방 Web + Server</a></p>
   </div>
 </div>
 <br />
