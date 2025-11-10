@@ -5,7 +5,6 @@
 <!-- ↓✨ Tech Stack ✨↓ -->
 <div>
   <h2><strong>✨ Tech Stack</strong></h2>
-  <divider />
   <div>
     <!-- Spring Boot -->
     <img src = "https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
@@ -33,7 +32,6 @@
 <!-- ↓🛠️ Tools 🛠️↓ -->
 <div>
   <h2><strong>🛠️ tools</strong></h2>
-  <divider />
   <div>
     <!-- IntelliJ IDEA -->
     <img src = "https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />&nbsp
@@ -55,7 +53,6 @@
 <!-- ↓🚀 Projects 🚀↓ -->
 <div>
   <h2><strong>🚀 Projects</strong></h2>
-  
   <!-- 블러드메이트 -->
   <div>
     <h3>"BloodMate"</h3>
@@ -63,6 +60,7 @@
     <p>링크 : <a href = "https://github.com/hanu1229/bloodmate">BloodMate Web + Server</a></p>
     <p>링크 : <a href = "https://github.com/hanu1229/bloodmate_app">BloodMate App</a></p>
   </div>
+  <hr />
   <!-- 프리랜서 개발자 중개 서비스 -->
   <div>
     <h3>"DevConnect"</h3>
@@ -70,18 +68,21 @@
     <p>링크 : <a href = "https://github.com/hanu1229/ft_project">DevConnect Web + Server</a></p>
     <p>링크 : <a href = "https://github.com/hanu1229/devconnect_app">DevConnect App</a></p>
   </div>
+  <hr />
   <!-- 호텔 운영 관리 서비스 -->
   <div>
     <h3>"KoreanHotel"</h3>
     <h4>호텔 운영 관리 서비스</h4>
     <p>링크 : <a href = "https://github.com/hanu1229/korean-hotel-staff-system">KoreanHotel Web + Server</a></p>
   </div>
+  <hr />
   <!-- 부동산 중개 서비스 -->
   <div>
     <h3>"이것방"</h3>
     <h4>부동산 중개 서비스</h4>
     <p>링크 : <a href = "https://github.com/hanu1229/this-room-estate-service">이것방 Web + Server</a></p>
   </div>
+  <hr />
 </div>
 <br />
 <!-- ↑🚀 Projects 🚀↑ -->
