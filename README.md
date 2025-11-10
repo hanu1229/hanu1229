@@ -34,7 +34,6 @@
 <div>
   <h2><strong>🛠️ tools</strong></h2>
   <divider />
-
   <div>
     <!-- IntelliJ IDEA -->
     <img src = "https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />&nbsp
@@ -56,7 +55,7 @@
 <!-- ↓🚀 Projects 🚀↓ -->
 <div>
   <h2><strong>🚀 Projects</strong></h2>
-  <divider />
+  
   <!-- 블러드메이트 -->
   <div>
     <h3>"BloodMate"</h3>
