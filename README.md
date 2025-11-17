@@ -89,14 +89,28 @@
 
 <!-- ↓📊 GitHub Stats↓ -->
 <div>
-  <h2><strong>📊 GitHub Stats 📊</strong></h2>
+  <h2><strong>📊 GitHub Stats</strong></h2>
   <divider />
   <div>
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hanu1229&layout=compact" />
   </div>
   </div>
 <br />
-<!-- ↑📊 GitHub Stats 📊↑ -->
+<!-- ↑📊 GitHub Stats ↑ -->
+
+<!-- ↓📬 Contact 📬↓ -->
+<div>
+  <h2><strong>📬 Contact</strong></h2>
+  <div>
+    <!-- Gmail -->
+    <p>
+      <a href = "mailto:han494127@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" valign="middle" /></a>&nbsp&nbsp
+      <span valign="middle"><strong>han494127@gmail.com</strong></span>
+    </p>
+    <!--  -->
+  </div>
+</div>
+<!-- ↑📬 Contact 📬↑ -->
 
 <img src = "https://capsule-render.vercel.app/api?type=waving&color=0:A097D4,100:DED9F4&height=200&section=footer">
 
