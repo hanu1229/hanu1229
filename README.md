@@ -25,6 +25,12 @@
     <!-- MySQL -->
     <img src = "https://img.shields.io/badge/MySQL-0175C2?style=for-the-badge&logo=mysql&logoColor=white&bgColor=blue" />&nbsp
   </div>
+  <div>
+    <!-- JPA -->
+    <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />&nbsp
+    <!-- JWT -->
+    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />&nbsp
+  </div>
 </div>
 <br />
 <!-- ↑✨ Tech Stack ✨↑ -->
